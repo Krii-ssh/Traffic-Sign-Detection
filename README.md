@@ -2,7 +2,7 @@
 YOLO-based traffic sign detection in Google Colab
 
 # Summary
-This project focuses on traffic sign detection using the YOLOv5 algorithm.The project aims to accurately detect and label various traffic signs within images.
+This project focuses on traffic sign detection using the YOLOv8 algorithm.The project aims to accurately detect and label various traffic signs within images.
 
 
 # Key Features:
