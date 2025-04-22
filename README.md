@@ -6,7 +6,7 @@ This project focuses on traffic sign detection using the YOLOv5 algorithm.The pr
 
 
 # Key Features:
-- Utilizes YOLOv5 algorithm for object detection
+- Utilizes YOLOv8 algorithm for object detection
 - Training performed on a dataset containing images with annotated traffic signs
 - Labels and trains for 10 classes of traffic signs
 - Detection results include bounding boxes drawn around the detected signs
