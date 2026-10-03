@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# YOLOv5 working copy and outputs
+yolov5/
+runs/
+*.pt
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
